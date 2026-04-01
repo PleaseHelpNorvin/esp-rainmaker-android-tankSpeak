@@ -136,7 +136,7 @@
     <string name="base_url_title">Cloud Endpoint URL : </string>
     <string name="hint_prefix">Enter Prefix</string>
     <string name="hint_key">Enter PIN</string>
-    <string name="devices_title">Devices</string>
+    <string name="devices_title">Gas Stations</string>
     <string name="enter_device_key">Enter Your Proof Of Possession PIN</string>
     <string name="hint_base_url">Enter your cloud endpoint URL</string>
 
@@ -151,7 +151,7 @@
     <string name="name">Name</string>
     <string name="app_main_desc">A sample app to showcase Cognito Identity and the SDK for Android.</string>
     <string name="powered_by_esp">Powered by ESPRESSIF</string>
-    <string name="no_devices">No devices added</string>
+    <string name="no_devices">No Gas Stations added</string>
     <string name="no_schedules">No Schedules added</string>
     <string name="no_scenes">No Scenes added</string>
     <string name="no_automations">No Automations added.</string>
@@ -459,7 +459,7 @@
     <string name="msg_no_internet">No internet connection</string>
     <string name="event">Event</string>
     <string name="actions">Actions</string>
-    <string name="group_all_devices">All Devices</string>
+    <string name="group_all_devices">All Gas Stations </string>
     <string name="success_group_name_update">Group name updated successfully</string>
     <string name="success_group_create">Group created successfully</string>
     <string name="success_group_update">Group updated successfully</string>
